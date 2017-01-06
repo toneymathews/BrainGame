@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
     int locationOfCorrectAnswer;
     int score = 0;
     int numberOfQuestions = 0;
-
+    int check = 0;
+    //check
     public void playAgain(View view){
 
         score = 0;
